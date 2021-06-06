@@ -1,2 +1,3 @@
 # tn_covid_analysis
-collect tamilnadu covid19 data from twitter
+collect TN covid19 data from twitter
+downlod tweet from twitter
